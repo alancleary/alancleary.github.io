@@ -8,7 +8,7 @@ categories:
 
 ### About<a name="about"></a>
 
-![grand teton](http://alancleary.github.io/images/me.jpg)
+![grand teton](http://alancleary.github.io/images/grand-teton-2016.jpg)
 
 I am a Ph.D student in the Computer Science program at Montana State University (MSU), Bozeman.
 My advisor is [Dr. Brendan Mumey](https://brendanmumey.wordpress.com/about/).
