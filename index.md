@@ -19,10 +19,10 @@ B.A., Mathematics, Western State College of Colorado, 2012
 
 ### Contact<a name="contact"></a>
 
-Applied Algorithms Laboratory
-Department of Computer Science
-Montana State University, Bozeman, MT
-Office: EPS 352
+Applied Algorithms Laboratory  
+Department of Computer Science  
+Montana State University, Bozeman, MT  
+Office: EPS 352  
 E-mail: alan.cleary (at) msu.montana.edu
 
 ### Research<a name="research"></a>
