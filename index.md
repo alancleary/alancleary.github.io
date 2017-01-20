@@ -1,9 +1,5 @@
 ---
-layout:     post
-title:      
-date:       
-summary:    
-categories: 
+layout: default
 ---
 
 ### About<a name="about"></a>
