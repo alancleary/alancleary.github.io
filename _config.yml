@@ -89,7 +89,7 @@ text:
     minute_read:    'minute read'
     related_posts:  'Related Posts'
   index:
-    coming_soon: 'Coming soon...'
+    coming_soon: 'Coming soon... Not really ;)'
   contact:
     email:    'Email Address'
     content:  'What would you like to say?'
