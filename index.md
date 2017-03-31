@@ -32,6 +32,10 @@ Recently I have been working on methods for visually exploring and mining data f
 
 ##### 2017
 
+Cleary, Alan, and Andrew Farmer. "Genome Context Viewer: visual exploration of multiple annotated genomes using microsynteny." _Bioinformatics_. Preprint, 2017.
+
+Cleary, Alan M., Thiruvarangan Ramaraj, Joann Mudge, and Brendan Mumey. "Approximate Frequent Subpath Mining Applied to Pangenomics." _ACM Conference on Bioinformatics, Computational Biology, and Health Informatics_. ACM BCB, 2017.
+
 Cleary, Alan M., Thiruvarangan Ramaraj, Joann Mudge, and Brendan Mumey. "Investigating Frequented Regions (FRs) in a Yeast Pan-Genome." _Plant and Animal Genome XXV Conference_. Plant and Animal Genome, 2017.
 
 Huang, Wei, Sudhansu Dash, Alan M. Cleary, Alex G. Rice, Sam Hokin, Jacqueline D. Campbell, Joel Berendzen, Maria Hadres, Pooja E. Umale, Nathan T. Weeks, Andrew Wilkey, Andrew Farmer, Steven B. Cannon, and Ethalinda Cannon. "PeanutBase.org: A Genomic and Genetic Data Resource to Support Crop Improvement in Peanut." _Plant and Animal Genome XXV Conference_. Plant and Animal Genome, 2017.
