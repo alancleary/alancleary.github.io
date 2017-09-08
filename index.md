@@ -28,7 +28,8 @@ E-mail: acleary (at) ncgr.org
 
 Applied Algorithms Laboratory  
 Gianforte School of Computing  
-Montana State University, Bozeman, MT, 59717  
+Montana State University  
+Bozeman, MT, 59717  
 E-mail: alan.cleary (at) msu.montana.edu
 
 ### Research<a name="research"></a>
