@@ -11,7 +11,7 @@ My advisor is [Dr. Brendan Mumey](https://brendanmumey.wordpress.com/about/).
 In my spare time I enjoy downhill skiing, rock climbing, and mountain biking.
 I also play guitar when I can.
 
-I am currently funded by the National Center for Genome Resources and the MSU Applied Algorithms Laboratory.
+I currently work as a Research Scientist for the National Center for Genome Resources and as a Research Assistant for the Applied Algorithms Laboratory at MSU.
 
 Ph.D, Computer Science, Montana State University, 2013-present  
 B.A., Computer Information Science, Western State College of Colorado, 2012  
@@ -19,10 +19,16 @@ B.A., Mathematics, Western State College of Colorado, 2012
 
 ### Contact<a name="contact"></a>
 
+[Google Scholar](https://scholar.google.com/citations?user=tDw-yx4AAAAJ&hl=en) | [Linkedin](https://www.linkedin.com/in/alan-cleary-4a1b9a22) | [ResearchGate](https://www.researchgate.net/profile/Alan_Cleary)
+
+National Center for Genome Resources
+2935 Rodeo Park Dr E
+Santa Fe, NM, 87505
+E-mail: acleary (at) ncgr.org
+
 Applied Algorithms Laboratory  
-Department of Computer Science  
-Montana State University, Bozeman, MT  
-Office: EPS 352  
+Gianforte School of Computing
+Montana State University, Bozeman, MT, 59717
 E-mail: alan.cleary (at) msu.montana.edu
 
 ### Research<a name="research"></a>
