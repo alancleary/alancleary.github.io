@@ -21,14 +21,14 @@ B.A., Mathematics, Western State College of Colorado, 2012
 
 [Google Scholar](https://scholar.google.com/citations?user=tDw-yx4AAAAJ&hl=en) &#124; [Linkedin](https://www.linkedin.com/in/alan-cleary-4a1b9a22) &#124; [ResearchGate](https://www.researchgate.net/profile/Alan_Cleary)
 
-National Center for Genome Resources
-2935 Rodeo Park Dr E
-Santa Fe, NM, 87505
+National Center for Genome Resources  
+2935 Rodeo Park Dr E  
+Santa Fe, NM, 87505  
 E-mail: acleary (at) ncgr.org
 
 Applied Algorithms Laboratory  
-Gianforte School of Computing
-Montana State University, Bozeman, MT, 59717
+Gianforte School of Computing  
+Montana State University, Bozeman, MT, 59717  
 E-mail: alan.cleary (at) msu.montana.edu
 
 ### Research<a name="research"></a>
