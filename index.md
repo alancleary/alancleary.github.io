@@ -43,6 +43,8 @@ Cleary, Alan, and Andrew Farmer. "Genome Context Viewer: visual exploration of m
 
 Cleary, Alan, Thiruvarangan Ramaraj,  Indika Kahanda, Joann Mudge, and Brendan Mumey. "Exploring Frequented Regions in Pan-Genomic Graphs." _8th ACM Conference on Bioinformatics, Computational Biology, and Health Informatics_. ACM-BCB, 2017. **(best student paper)**
 
+Cleary, Alan, Joann Mudge, Thiruvarangan Ramaraj, and Brendan Mumey. ``Mining Frequented Regions for Pan-Genome Analysis.'' 12th Annual Sequencing, Finishing, and Analysis in the Future Meeting. LANL SFAF, 2017.
+
 Cleary, Alan M., Thiruvarangan Ramaraj, Joann Mudge, and Brendan Mumey. "Approximate Frequent Subpath Mining Applied to Pangenomics." _9th International Conference on Bioinformatics and Computational Biology_. BICOB, 2017.
 
 Cleary, Alan M., Thiruvarangan Ramaraj, Joann Mudge, and Brendan Mumey. "Investigating Frequented Regions (FRs) in a Yeast Pan-Genome." _Plant and Animal Genome XXV Conference_. Plant and Animal Genome, 2017.
