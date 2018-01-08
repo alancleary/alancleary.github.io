@@ -6,7 +6,7 @@ layout: default
 
 ![grand teton](http://alancleary.github.io/images/grand-teton-2016.jpg)
 
-I am a Ph.D student in the Computer Science program at Montana State University (MSU), Bozeman.
+I am a Ph.D candidate in the Computer Science program at Montana State University (MSU), Bozeman.
 My advisor is [Dr. Brendan Mumey](https://brendanmumey.wordpress.com/about/).
 In my spare time I enjoy downhill skiing, rock climbing, and mountain biking.
 I also play guitar when I can.
