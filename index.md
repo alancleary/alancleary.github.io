@@ -38,8 +38,9 @@ Generally, I am interested in algorithms for hard, practical problems, though my
 Recently I have been working on methods for visually exploring and mining data from genomic databases and developing algorithms for pan/population genomcics.
 
 ##### 2017
+Cleary, Alan Cleary, Thiruvarangan Ramaraj, Indika Kahanda, Joann Mudge, Shubhang Kulkarni, and Brendan Mumey. "Exploring Frequented Regions in Pan-Genomic Graphs." _15th Annual Rocky Mountain Bioinformatics Conference_. ROCKY, 2017.
 
-Cleary, Alan, and Andrew Farmer. "Genome Context Viewer: visual exploration of multiple annotated genomes using microsynteny." _Bioinformatics_. Preprint, 2017.
+Cleary, Alan, and Andrew Farmer. "Genome Context Viewer: visual exploration of multiple annotated genomes using microsynteny." _Bioinformatics_. 1:3, 2017.
 
 Cleary, Alan, Thiruvarangan Ramaraj,  Indika Kahanda, Joann Mudge, and Brendan Mumey. "Exploring Frequented Regions in Pan-Genomic Graphs." _8th ACM Conference on Bioinformatics, Computational Biology, and Health Informatics_. ACM-BCB, 2017. **(best student paper)**
 
