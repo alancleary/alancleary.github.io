@@ -37,6 +37,12 @@ E-mail: alan.cleary (at) msu.montana.edu
 Generally, I am interested in algorithms for hard, practical problems, though my main focus is on Computational Biology.
 Recently I have been working on methods for visually exploring and mining data from genomic databases and developing algorithms for pan/population genomcics.
 
+##### 2018
+
+Farmer, Farmer, Jacqueline Campbell, Sudhansu Dash, Wei Huang, Malachy O'Connell, Andrew Wilkey, Akshay Yadav, Nathan T. Weeks, Joel Berendzen, Alan Cleary, Sam Hokin, Connor Cameron, Vivek Krishnakumar, Amanda Cooksey, Agnes Chan, Ethalinda Cannon, Eric Lyons, Christopher Town, Steven Cannon, and David Fernandez-Baca. "The Federated Plant Database Initiative for thee Legumes." _Plant and Animal Genome XXVI Conference_. Plant and Animal Genome, 2018.
+
+Cannon, Steven, Jacqueline Campbell, Sam Hokin, Joel Berendzen, Ethalinda Cannon, Alan Cleary, Sudhansu Dash, Connor T. Cameron, Wei Huang, Scott R. Kalberer, Amanda Cooksey, Nathan Weeks, and Andrew Farmer. "legumeinfo.org: Legume Research and Trait Data that is Findable, Accessible, Interoperable and Re-Usable." _Plant and Animal Genome XXVI Conference_. Plant and Animal Genome, 2018.
+
 ##### 2017
 Cleary, Alan Cleary, Thiruvarangan Ramaraj, Indika Kahanda, Joann Mudge, Shubhang Kulkarni, and Brendan Mumey. "Exploring Frequented Regions in Pan-Genomic Graphs." _15th Annual Rocky Mountain Bioinformatics Conference_. ROCKY, 2017.
 
