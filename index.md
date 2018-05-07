@@ -6,14 +6,13 @@ layout: default
 
 ![grand teton](http://alancleary.github.io/images/grand-teton-2016.jpg)
 
-I am a Ph.D candidate in the Computer Science program at Montana State University (MSU), Bozeman.
-My advisor is [Dr. Brendan Mumey](https://brendanmumey.wordpress.com/about/).
+Hello.
+My name is Alan.
+I am a Computational Research Scientist at the National Center for Genome Resources.
 In my spare time I enjoy downhill skiing, rock climbing, and mountain biking.
 I also play guitar when I can.
 
-I currently work as a Research Scientist for the National Center for Genome Resources and as a Research Assistant for the Applied Algorithms Laboratory at MSU.
-
-Ph.D, Computer Science, Montana State University, 2013-present  
+Ph.D, Computer Science, Montana State University, 2013-2018 (advisor: [Dr. Brendan Mumey](https://brendanmumey.wordpress.com/about/))
 B.A., Computer Information Science, Western State College of Colorado, 2012  
 B.A., Mathematics, Western State College of Colorado, 2012
 
@@ -26,16 +25,10 @@ National Center for Genome Resources
 Santa Fe, NM, 87505  
 E-mail: acleary (at) ncgr.org
 
-Applied Algorithms Laboratory  
-Gianforte School of Computing  
-Montana State University  
-Bozeman, MT, 59717  
-E-mail: alan.cleary (at) msu.montana.edu
-
 ### Research<a name="research"></a>
 
 Generally, I am interested in algorithms for hard, practical problems, though my main focus is on Computational Biology.
-Recently I have been working on methods for visually exploring and mining data from genomic databases and developing algorithms for pan/population genomcics.
+Recently I have been working on methods for visually exploring and mining data from genomic databases and developing algorithms for pan/population genomcics, with an eye towards parallelism and high performance computing.
 
 ##### 2018
 
