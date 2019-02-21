@@ -30,7 +30,15 @@ E-mail: acleary (at) ncgr.org
 Generally, I am interested in algorithms for hard, practical problems, though my main focus is on Computational Biology.
 Recently I have been working on methods for visually exploring and mining data from genomic databases and developing algorithms for pan/population genomcics, with an eye towards parallelism and high performance computing.
 
+##### 2019
+
+Campbell, Jacqueline D., Joel Berendzen, Connor T. Cameron, Ethalinda Cannon, Alan Cleary, Sudhansu Dash, David Grant, Sam Hokin, Wei Huang, Scott R. Kalberer, Nathan T. Weeks, Andrew Farmer, and Steven Cannon. "legumeinfo.org: A Resource to Facilitate Basic Research and Crop Improvement in Legumes." _Plant and Animal Genome XXVII Conference_. Plant and Animal Genome, 2019.
+
+Campbell, Jacqueline D, Joel Berendzen, Connor T. Cameron, Ethalinda Cannon, Steven Cannon, Agnes P. Chan, Yongwook Choi, Alan Cleary, Amanda M. Cooksey, Sudhansu Dash, Andrew Farmer, David Grant, Sam Hokin, Wei Huang, Christopher D. Town, Akshay Yadav, Nathan T. Weeks, Andrew Wilkey, and David Fernandez-Baca. "legumefederation.org: A Federation of Legume Data Providers Promoting Data Standards and Providing Software Solutions for Cross-Platform Comparative Legume Research." _Plant and Animal Genome XXVII Conference_. Plant and Animal Genome, 2019.
+
 ##### 2018
+
+Cleary, Alan, Thiruvarangan Ramaraj,  Indika Kahanda, Joann Mudge, and Brendan Mumey. "Exploring Frequented Regions in Pan-Genomic Graphs." _IEEE/ACM transactions on computational biology and bioinformatics_. TCBB, 2018.
 
 Farmer, Andrew, Jacqueline Campbell, Sudhansu Dash, Wei Huang, Malachy O'Connell, Andrew Wilkey, Akshay Yadav, Nathan T. Weeks, Joel Berendzen, Alan Cleary, Sam Hokin, Connor Cameron, Vivek Krishnakumar, Amanda Cooksey, Agnes Chan, Ethalinda Cannon, Eric Lyons, Christopher Town, Steven Cannon, and David Fernandez-Baca. "The Federated Plant Database Initiative for thee Legumes." _Plant and Animal Genome XXVI Conference_. Plant and Animal Genome, 2018.
 
