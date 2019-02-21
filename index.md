@@ -40,6 +40,8 @@ Campbell, Jacqueline D, Joel Berendzen, Connor T. Cameron, Ethalinda Cannon, Ste
 
 Cleary, Alan, Thiruvarangan Ramaraj,  Indika Kahanda, Joann Mudge, and Brendan Mumey. "Exploring Frequented Regions in Pan-Genomic Graphs." _IEEE/ACM transactions on computational biology and bioinformatics_. TCBB, 2018.
 
+Mudge, Joann, Alan Cleary, Indika Kahanda, Brendan Mumey, and Thiruvarangan Ramaraj. "Enabling Biological Insights through Eukaryotic Pangenomics." 13th Annual Sequencing, Finishing, and Analysis in the Future Meeting. LANL SFAF, 2018.
+
 Farmer, Andrew, Jacqueline Campbell, Sudhansu Dash, Wei Huang, Malachy O'Connell, Andrew Wilkey, Akshay Yadav, Nathan T. Weeks, Joel Berendzen, Alan Cleary, Sam Hokin, Connor Cameron, Vivek Krishnakumar, Amanda Cooksey, Agnes Chan, Ethalinda Cannon, Eric Lyons, Christopher Town, Steven Cannon, and David Fernandez-Baca. "The Federated Plant Database Initiative for thee Legumes." _Plant and Animal Genome XXVI Conference_. Plant and Animal Genome, 2018.
 
 Cannon, Steven, Jacqueline Campbell, Sam Hokin, Joel Berendzen, Ethalinda Cannon, Alan Cleary, Sudhansu Dash, Connor T. Cameron, Wei Huang, Scott R. Kalberer, Amanda Cooksey, Nathan Weeks, and Andrew Farmer. "legumeinfo.org: Legume Research and Trait Data that is Findable, Accessible, Interoperable and Re-Usable." _Plant and Animal Genome XXVI Conference_. Plant and Animal Genome, 2018.
