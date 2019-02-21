@@ -38,6 +38,8 @@ Campbell, Jacqueline D, Joel Berendzen, Connor T. Cameron, Ethalinda Cannon, Ste
 
 ##### 2018
 
+Cleary, Alan. "Computational pan-genomics: algorithms and applications." _Montana State University-Bozeman, College of Engineering_. 2018. **(dissertation)**
+
 Cleary, Alan, Thiruvarangan Ramaraj,  Indika Kahanda, Joann Mudge, and Brendan Mumey. "Exploring Frequented Regions in Pan-Genomic Graphs." _IEEE/ACM transactions on computational biology and bioinformatics_. TCBB, 2018.
 
 Mudge, Joann, Alan Cleary, Indika Kahanda, Brendan Mumey, and Thiruvarangan Ramaraj. "Enabling Biological Insights through Eukaryotic Pangenomics." 13th Annual Sequencing, Finishing, and Analysis in the Future Meeting. LANL SFAF, 2018.
