@@ -32,6 +32,8 @@ Recently I have been working on methods for visually exploring and mining data f
 
 ##### 2019
 
+Manuweera, Buwani and Mudge, Joann and Kahanda, Indika and Mumey, Brendan and Ramaraj, Thiruvarangan and Alan Cleary. "Pangenome-Wide Association Studies with Frequented Regions." _10th ACM Conference on Bioinformatics, Computational Biology, and Health Informatics_. ACM-BCB, 2019.
+
 Hokin, Samuel and Alan Cleary. "Disease Classification with Pan-Genome Frequented Regions and Machine Learning." _Gordon Research Conference on Human Genetics and Genomics_. GRS, 2019.
 
 Campbell, Jacqueline D., Joel Berendzen, Connor T. Cameron, Ethalinda Cannon, Alan Cleary, Sudhansu Dash, David Grant, Sam Hokin, Wei Huang, Scott R. Kalberer, Nathan T. Weeks, Andrew Farmer, and Steven Cannon. "legumeinfo.org: A Resource to Facilitate Basic Research and Crop Improvement in Legumes." _Plant and Animal Genome XXVII Conference_. Plant and Animal Genome, 2019.
