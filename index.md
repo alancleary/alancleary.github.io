@@ -101,6 +101,8 @@ Cannon, Steven B, Andrew D. Farmer, Pooja E. Umale, Hrishikesh Lokhande, Alan Cl
 
 Farmer, Andrew D, Steven B. Cannon, Scott R. Kalberer, Jugpreet Singh, Ethalinda Cannon, Pooja E. Umale, Hrishikesh Lokhande, Alan Cleary, Nathan T. Weeks, Vijay Karingula, and Sudhansu Dash. "Methods for Collecting, Integrating, and Displaying Complex Genetic Data, Using the Legume Information System and PeanutBase." _Plant and Animal Genome XXIII Conference_. Plant and Animal Genome, 2015.
 
+Peterson, John, Alan Cleary, and Ken Roe. "PyFRP: Function Reactive Programming in Python." _ACM SIGPLAN conference on Systems, Programming, Languages, and Applications: Software for Humanity - Education Symposium_. SPLASH-E, 2015. 
+
 ##### 2011
 
 Just, Seth, Alan Cleary, Brandon Shirley, and Christian Hammer. "Information flow analysis for javascript." _Proceedings of the 1st ACM SIGPLAN international workshop on Programming language and systems technologies for internet clients_. ACM, 2011.
