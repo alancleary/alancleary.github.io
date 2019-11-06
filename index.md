@@ -103,6 +103,10 @@ Farmer, Andrew D, Steven B. Cannon, Scott R. Kalberer, Jugpreet Singh, Ethalinda
 
 Peterson, John, Alan Cleary, and Ken Roe. "PyFRP: Function Reactive Programming in Python." _ACM SIGPLAN conference on Systems, Programming, Languages, and Applications: Software for Humanity - Education Symposium_. SPLASH-E, 2015. 
 
+##### 2013
+
+Peterson, John and Alan Cleary. "Functional Reactive Programming in K12 Education." _2nd International Workshop on Trends in Functional Programming in Education_. TFPIE, 2013.
+
 ##### 2011
 
 Just, Seth, Alan Cleary, Brandon Shirley, and Christian Hammer. "Information flow analysis for javascript." _Proceedings of the 1st ACM SIGPLAN international workshop on Programming language and systems technologies for internet clients_. ACM, 2011.
