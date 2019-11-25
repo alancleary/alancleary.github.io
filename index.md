@@ -32,6 +32,8 @@ Recently I have been working on methods for visually exploring and mining data f
 
 ##### 2019
 
+Bauchet, Guillaume, Kirstin Bett, Connor Cameron, Jacqueline Campbell, Ethalinda Cannon, Steven Cannon, Joseph Carlson, Agnes Chan, Alan Cleary, Timothy Close, Douglas Cook, Amanda Cooksey, Clarice Coyne, Sudhansu Dash, Rebecca Dickstein, Andrew Farmer, David Fernández‐Baca, Samuel Hokin, Elizabeth Jones, Yun Kang, Maria Monteros, María Muñoz‐Amatriaín, Kirankumar Mysore, Catalina Pislariu, Chris Richards, Ainong Shi, Christopher Town, Michael Udvardi, Eric Bishop von Wettberg, Nevin Young and Patrick Zhao. "The future of legume genetic data resources: Challenges, opportunities, and priorities." _Legume Science_. 2019.
+
 Llamas, Bastien, Giuseppe Narzisi, Valerie Schneider, Peter A. Audano, Evan Biederstedt, Lon Blauvelt, Peter Bradbury, Xian Chang, Chen-Shan Chin, Arkarachai Fungtammasan, Wayne E. Clarke, Alan Cleary, Jana Ebler, Jordan Eizenga, Jonas A. Sibbesen, Charles J. Markello, Erik Garrison, Shilpa Garg, Glenn Hickey, Gerard R. Lazo, Michael F. Lin, Medhat Mahmoud, Tobias Marschall, Ilia Minkin, Jean Monlong, Rajeeva L. Musunuri, Sagayamary Sagayaradj, Adam M. Novak, Mikko Rautiainen, Allison Regier, Fritz J. Sedlazeck, Jouni Siren, Yassine Souilmi, Justin Wagner, Travis Wrightsman, Toshiyuki T. Yokoyama, Qiandong Zeng, Justin M. Zook, Benedict Paten and Ben Busby. "A strategy for building and using a human reference pangenome." _F1000Research_. 2019.
 
 Manuweera, Buwani, Joann Mudge, Indika Kahanda, Brendan Mumey, Thiruvarangan Ramaraj and Alan Cleary. "Pangenome-Wide Association Studies with Frequented Regions." _10th ACM Conference on Bioinformatics, Computational Biology, and Health Informatics_. ACM-BCB, 2019.
