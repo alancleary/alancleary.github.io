@@ -30,6 +30,10 @@ E-mail: acleary (at) ncgr.org
 Generally, I am interested in algorithms for hard, practical problems, though my main focus is on Computational Biology.
 Recently I have been working on methods for visually exploring and mining data from genomic databases and developing algorithms for pan/population genomcics, with an eye towards parallelism and high performance computing.
 
+##### 2020
+
+Huang, Wei, Joel Berendzen, Anne V. Brown, Connor T. Cameron, Jacqueline D. Campbell, Ethalinda Cannon, Alan Cleary, Sudhansu Dash, Samuel A. Hokin, Sven Gato Redsun, Scott R. Kalberer, Nathan Weeks, Andrew Wilkey, Andrew Farmer and Steven B. Cannon. "Legumeinfo.org: Online Resources Facilitate Basic Research and Crop Improvement for Legumes." _Plant and Animal Genome XXVIII Conference_. Plant and Animal Genome, 2020.
+
 ##### 2019
 
 Bauchet, Guillaume, Kirstin Bett, Connor Cameron, Jacqueline Campbell, Ethalinda Cannon, Steven Cannon, Joseph Carlson, Agnes Chan, Alan Cleary, Timothy Close, Douglas Cook, Amanda Cooksey, Clarice Coyne, Sudhansu Dash, Rebecca Dickstein, Andrew Farmer, David Fernández‐Baca, Samuel Hokin, Elizabeth Jones, Yun Kang, Maria Monteros, María Muñoz‐Amatriaín, Kirankumar Mysore, Catalina Pislariu, Chris Richards, Ainong Shi, Christopher Town, Michael Udvardi, Eric Bishop von Wettberg, Nevin Young and Patrick Zhao. "The future of legume genetic data resources: Challenges, opportunities, and priorities." _Legume Science_. 2019.
