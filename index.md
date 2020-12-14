@@ -32,6 +32,8 @@ Recently I have been working on methods for visually exploring and mining data f
 
 ##### 2020
 
+Hokin, Samuel, Alan Cleary, and Joann Mudge. "Disease association with frequented regions of genotype graphs." _medRxiv_. Preprint, 2020.
+
 Pasha, Asher, Shabari Subramaniam, Alan Cleary, Xingguo Chen, Tanya Z Berardini, Andrew Farmer, Chris Town and Nicholas J. Provart. "Araport Lives: An Updated Framework for Arabidopsis Bioinformatics." _The Plant Cell_. American Society of Plant Biologists, 2020. **(The Plant Cell article of the week)**
 
 Huang, Wei, Joel Berendzen, Anne V. Brown, Connor T. Cameron, Jacqueline D. Campbell, Ethalinda Cannon, Alan Cleary, Sudhansu Dash, Samuel A. Hokin, Sven Gato Redsun, Scott R. Kalberer, Nathan Weeks, Andrew Wilkey, Andrew Farmer and Steven B. Cannon. "Legumeinfo.org: Online Resources Facilitate Basic Research and Crop Improvement for Legumes." _Plant and Animal Genome XXVIII Conference_. Plant and Animal Genome, 2020.
