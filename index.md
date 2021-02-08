@@ -4,7 +4,7 @@ layout: default
 
 ### About<a name="about"></a>
 
-![grand teton](http://alancleary.github.io/images/grand-teton-2016.jpg)
+![grand teton](http://alancleary.github.io/images/mount-moran-2020.JPG)
 
 Hello.
 My name is Alan.
