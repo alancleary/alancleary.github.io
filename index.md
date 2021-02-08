@@ -30,6 +30,10 @@ E-mail: acleary (at) ncgr.org
 Generally, I am interested in algorithms for hard, practical problems, though my main focus is on Computational Biology.
 Recently I have been working on methods for visually exploring and mining data from genomic databases and developing algorithms for pan/population genomcics, with an eye towards parallelism and high performance computing.
 
+##### 2021
+
+Berendzen, Joel, Anne V. Brown, Connor T. Cameron, Jacqueline D. Campbell, Alan M. Cleary, Sudhansu Dash, Samuel Hokin, Wei Huang, Scott R. Kalberer, Rex T. Nelson, Sven Redsun, Nathan T. Weeks, Andrew Wilkey, Andrew D. Farmer, and Steven B. Cannon. "The legume information system and associated online genomic resources." _Legume Science_. Wiley, 2021.
+
 ##### 2020
 
 Hokin, Samuel, Alan Cleary, and Joann Mudge. "Disease association with frequented regions of genotype graphs." _medRxiv_. Preprint, 2020.
