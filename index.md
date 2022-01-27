@@ -30,8 +30,6 @@ E-mail: acleary (at) ncgr.org
 Generally, I am interested in algorithms for hard, practical problems, though my main focus is on Computational Biology.
 Recently I have been working on methods for visually exploring and mining data from genomic databases and developing algorithms for pan/population genomcics, with an eye towards parallelism and high performance computing.
 
-**I currently have funding for a remote graduate research assistant (you must be a full-time graduate student at a US university to qualify). See the [job posting](https://www.ncgr.org/careers/remote-graduate-research-assistant/) for details.**
-
 ##### 2022
 
 Redsun, Sven, Sam Hokin, Connor T. Cameron, Alan M. Cleary, Joel Berendzen, Sudhansu Dash, Anne V. Brown, Andrew Wilkey, Jacqueline D. Campbell, Wei Huang, Scott R. Kalberer, Nathan T. Weeks, Steven B. Cannon, and Andrew D. Farmer. "Doing Genetic and Genomic Biology Using the Legume Information System and Associated Resources." _Plant Bioinformatics_. Springer US, 2022, pp. 81-100.
