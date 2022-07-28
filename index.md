@@ -38,6 +38,8 @@ Redsun, Sven, Sam Hokin, Connor T. Cameron, Alan M. Cleary, Joel Berendzen, Sudh
 
 Berendzen, Joel, Anne V. Brown, Connor T. Cameron, Jacqueline D. Campbell, Alan M. Cleary, Sudhansu Dash, Samuel Hokin, Wei Huang, Scott R. Kalberer, Rex T. Nelson, Sven Redsun, Nathan T. Weeks, Andrew Wilkey, Andrew D. Farmer, and Steven B. Cannon. "The legume information system and associated online genomic resources." _Legume Science_. Wiley, 2021.
 
+Al Khleifat, Ahmad, Jenny L. Smith, Brandon M. Blobner, Sierra D. Miller, Kymberleigh Pagel, Annie Nadkarni, Melanie Gainey, Patrick Campbell, Olaitan I. Awe, Manuel Belmadani, Alan M. Cleary, Nicholas P. Cooley, Shamika Dhuri, Virginie Grosboillot, Brian Haas, Samuel Hokin, Ekaterina Orlova, Meghana Pagadala, Stephen Price, Adelaide Rhodes, Janice Kyla, Nascimento Smith, Chaitanya Srinivasan, Barry Zorman, and Ben Busby. "SnpReportR: A Tool for Clinical Reporting of RNAseq Expression and Variants." _BioHackrXiv_. Preprint, 2021.
+
 ##### 2020
 
 Hokin, Samuel, Alan Cleary, and Joann Mudge. "Disease association with frequented regions of genotype graphs." _medRxiv_. Preprint, 2020.
