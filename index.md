@@ -18,7 +18,7 @@ B.A., Mathematics, Western State College of Colorado, 2012
 
 ### Contact<a name="contact"></a>
 
-[Google Scholar](https://scholar.google.com/citations?user=d-FBuWsAAAAJ&hl=en) &#124; [Linkedin](https://www.linkedin.com/in/alan-cleary-4a1b9a22) &#124; [ResearchGate](https://www.researchgate.net/profile/Alan_Cleary) &#124; [ORCID](https://orcid.org/0000-0002-6567-5346)
+[Google Scholar](https://scholar.google.com/citations?user=d-FBuWsAAAAJ&hl=en) &#124; [Linkedin](https://www.linkedin.com/in/alan-cleary-4a1b9a22) &#124; [ResearchGate](https://www.researchgate.net/profile/Alan_Cleary) &#124; [ORCID](https://orcid.org/0000-0002-6567-5346) &#124; [GitHub](https://github.com/alancleary)
 
 National Center for Genome Resources  
 2935 Rodeo Park Dr E  
