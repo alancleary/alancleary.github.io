@@ -8,7 +8,7 @@ layout: default
 
 Hello.
 My name is Alan.
-I am a Computational Research Scientist at the National Center for Genome Resources.
+I am a Computational Research Scientist and Senior Software Engineer at the National Center for Genome Resources.
 In my spare time I enjoy downhill skiing, rock climbing, and mountain biking.
 I also play guitar when I can.
 
