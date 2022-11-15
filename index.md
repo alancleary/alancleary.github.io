@@ -32,6 +32,8 @@ Recently I have been working on methods for visually exploring and mining data f
 
 ##### 2022
 
+Durant, Eloi, Mathieu Rouard, Eric W. Ganko, Cedric Muller, Alan M. Cleary, Andrew D. Farmer, Matthieu Conte, and Francois Sabot. "Ten simple rules for developing visualization tools in genomics." _PLOS Computational Biology_. Public Library of Science, 2022.
+
 Redsun, Sven, Sam Hokin, Connor T. Cameron, Alan M. Cleary, Joel Berendzen, Sudhansu Dash, Anne V. Brown, Andrew Wilkey, Jacqueline D. Campbell, Wei Huang, Scott R. Kalberer, Nathan T. Weeks, Steven B. Cannon, and Andrew D. Farmer. "Doing Genetic and Genomic Biology Using the Legume Information System and Associated Resources." _Plant Bioinformatics_. Springer US, 2022, pp. 81-100.
 
 ##### 2021
