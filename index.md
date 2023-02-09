@@ -30,6 +30,10 @@ E-mail: acleary (at) ncgr.org
 Generally, I am interested in algorithms for hard, practical problems, though my main focus is on Computational Biology.
 Recently I have been working on methods for visually exploring and mining data from genomic databases and developing algorithms for pan/population genomcics, with an eye towards parallelism and high performance computing.
 
+##### 2023
+
+Cleary, Alan and Jordan Dood. "Constructing the CDAWG CFG using LCP-Intervals." _Data Compression Conference_. DCC, 2023.
+
 ##### 2022
 
 Durant, Eloi, Mathieu Rouard, Eric W. Ganko, Cedric Muller, Alan M. Cleary, Andrew D. Farmer, Matthieu Conte, and Francois Sabot. "Ten simple rules for developing visualization tools in genomics." _PLOS Computational Biology_. Public Library of Science, 2022.
