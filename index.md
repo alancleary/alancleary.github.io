@@ -32,7 +32,7 @@ Recently I have been working on methods for visually exploring and mining data f
 
 ##### 2023
 
-Cleary, Alan and Jordan Dood. "Constructing the CDAWG CFG using LCP-Intervals." _Data Compression Conference_. DCC, 2023. **(Capocelli Prize -- outstanding student-authored paper)**
+Cleary, Alan and Jordan Dood. "Constructing the CDAWG CFG using LCP-Intervals." _Data Compression Conference_. DCC, 2023. **(Capocelli Prize for outstanding student-authored paper)**
 
 ##### 2022
 
