@@ -32,6 +32,10 @@ Recently I have been working on methods for visually exploring and mining data f
 
 ##### 2023
 
+Ramaraj, Thiruvarangan, Brendan Mumey, Alan Cleary, Indika Kahanda, Nathaniel Lane, Buwani Manuweera, Snehaa Durairaj, Azalea Mendoza, Joia Capocchi, Avery Phillips, Niveditha Bala, Mateo Amador and Joann Mudge. "Pangenomic analysis with FindFRs3: A case study in _Medicago truncatula_." 17th Annual Sequencing, Finishing, and Analysis in the Future Meeting. LANL SFAF, 2023.
+
+Dood, Jordan and Alan Cleary. "Novel Grammar-Based Compression Algorithms for Pangenome Analysis." 17th Annual Sequencing, Finishing, and Analysis in the Future Meeting. LANL SFAF, 2023.
+
 Cleary, Alan M. and Andrew D. Farmer. "Genome Context Viewer (GCV) version 2: enhanced visual exploration of multiple annotated genomes." _Nucleic Acids Research (2023): gkad391_.
 
 Cleary, Alan and Jordan Dood. "Constructing the CDAWG CFG using LCP-Intervals." _Data Compression Conference_. DCC, 2023. **(Capocelli Prize for outstanding student-authored paper)**
