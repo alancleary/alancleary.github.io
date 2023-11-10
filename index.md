@@ -32,6 +32,8 @@ Recently I have been working on methods for visually exploring and mining data f
 
 ##### 2023
 
+Kahanda, Indika, Joann Mudge, Buwani Manuweera, Thiruvarangan Ramaraj, Alan Cleary and Brendan Mumey. "Graph-Based Machine Learning Approaches for Pangenomics." _Machine Learning Methods for Multi-Omics Data Integration_. Springer Nature, 2023.
+
 Ramaraj, Thiruvarangan, Brendan Mumey, Alan Cleary, Indika Kahanda, Nathaniel Lane, Buwani Manuweera, Snehaa Durairaj, Azalea Mendoza, Joia Capocchi, Avery Phillips, Niveditha Bala, Mateo Amador and Joann Mudge. "Pangenomic analysis with FindFRs3: A case study in _Medicago truncatula_." 17th Annual Sequencing, Finishing, and Analysis in the Future Meeting. LANL SFAF, 2023.
 
 Dood, Jordan and Alan Cleary. "Novel Grammar-Based Compression Algorithms for Pangenome Analysis." 17th Annual Sequencing, Finishing, and Analysis in the Future Meeting. LANL SFAF, 2023.
