@@ -143,6 +143,10 @@ Peterson, John, Alan Cleary, and Ken Roe. "PyFRP: Function Reactive Programming 
 
 Peterson, John and Alan Cleary. "Functional Reactive Programming in K12 Education." _2nd International Workshop on Trends in Functional Programming in Education_. TFPIE, 2013.
 
+##### 2012
+
+Cleary, Alan. "A Mathematical Approach to Artificial Intelligence: Deriving and Implementing an Artificial Neural Network Model." Western State College, Math and Computer Information Science Department. 2012. **(senior capstone)**
+
 ##### 2011
 
 Just, Seth, Alan Cleary, Brandon Shirley, and Christian Hammer. "Information flow analysis for javascript." _Proceedings of the 1st ACM SIGPLAN international workshop on Programming language and systems technologies for internet clients_. ACM, 2011.
