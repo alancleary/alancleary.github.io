@@ -12,7 +12,7 @@ I am a Computational Research Scientist and Senior Software Engineer at the Nati
 In my spare time I enjoy downhill skiing, rock climbing, and mountain biking.
 I also play guitar when I can.
 
-Ph.D., Computer Science, Montana State University, 2013-2018 ([Dr. Brendan Mumey](https://www.cs.montana.edu/bmumey/))
+Ph.D., Computer Science, Montana State University, 2018 ([Dr. Brendan Mumey](https://www.cs.montana.edu/bmumey/))
 B.A., Computer Information Science, Western State College of Colorado, 2012  
 B.A., Mathematics, Western State College of Colorado, 2012
 
