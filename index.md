@@ -2,9 +2,9 @@
 layout: default
 ---
 
-### About<a name="about"></a>
-
 ![grand teton](http://alancleary.github.io/images/mount-moran-2020.JPG)
+
+### About<a name="about"></a>
 
 Hello.
 My name is Alan.
