@@ -30,9 +30,11 @@ E-mail: acleary (at) ncgr.org
 Generally, I am interested in algorithms for hard, practical problems, though my main focus is on Computational Biology.
 Recently I have been working on methods for visually exploring and mining data from genomic databases and developing algorithms for pan/population genomcics, with an eye towards parallelism and high performance computing.
 
-##### 2023
+##### 2024
 
-Kahanda, Indika, Joann Mudge, Buwani Manuweera, Thiruvarangan Ramaraj, Alan Cleary and Brendan Mumey. "Graph-Based Machine Learning Approaches for Pangenomics." _Machine Learning Methods for Multi-Omics Data Integration_. Springer Nature, 2023.
+Kahanda, Indika, Joann Mudge, Buwani Manuweera, Thiruvarangan Ramaraj, Alan Cleary and Brendan Mumey. "Graph-Based Machine Learning Approaches for Pangenomics." _Machine Learning Methods for Multi-Omics Data Integration_. Springer Nature, 2024.
+
+##### 2023
 
 Kahanda, Indika, Joann Mudge, Buwani Manuweera, Thiruvarangan Ramaraj, Alan Cleary and Brendan Mumey. "Genotype-to-Phenotype Associations with Frequented Region Variants." _2023 IEEE International Conference on Bioinformatics and Biomedicine (BIBM)_. Istanbul, Turkey, 2023.
 
