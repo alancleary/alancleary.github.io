@@ -3,8 +3,9 @@ title:       alancleary
 email:       alan.cleary@msu.montana.edu
 author:      Alan Cleary
 description: "Alan's home on the Internet."
-baseurl:     ""
+domain:      "alancleary.github.io"
 url:         "http://alancleary.github.io"
+baseurl:     ""
 date_format: "%b %-d, %Y"
 header_pages:
  - about.md
