@@ -32,6 +32,8 @@ Recently I have been working on methods for visually exploring and mining data f
 
 ##### 2024
 
+Cleary, Alan M., Joseph Winjum, Jordan Dood, Shunsuke Inenaga. "Revisiting the Folklore Algorithm for Random Access to Grammar-Compressed Strings." _String Processing and Information Retrieval (SPIRE)_. Lecture Notes in Computer Science, vol 14899. Springer, 2024.
+
 Kahanda, Indika, Joann Mudge, Buwani Manuweera, Thiruvarangan Ramaraj, Alan Cleary and Brendan Mumey. "Graph-Based Machine Learning Approaches for Pangenomics." _Machine Learning Methods for Multi-Omics Data Integration_. Springer Nature, 2024.
 
 ##### 2023
