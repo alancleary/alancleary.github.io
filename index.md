@@ -30,6 +30,12 @@ E-mail: acleary (at) ncgr.org
 Generally, I am interested in algorithms for hard, practical problems, though my main focus is on Computational Biology.
 Recently I have been working on methods for visually exploring and mining data from genomic databases and developing algorithms for pan/population genomcics, with an eye towards parallelism and high performance computing.
 
+##### 2025
+
+Mudge, Joann and Alan Cleary. "NIGMS Sandbox: Pangenomics Module." _Western Regional IDeA Conference_. WRIC, 2025.
+
+Cleary, Alan M. and Andrew Farmer. "Exploring the Arabidopsis Pangenome with the Genome Context Viewer." _Plant and Animal Genome Conference_. PAG 32, 2025.
+
 ##### 2024
 
 Cleary, Alan M., Joseph Winjum, Jordan Dood, Shunsuke Inenaga. "Revisiting the Folklore Algorithm for Random Access to Grammar-Compressed Strings." _String Processing and Information Retrieval (SPIRE)_. Lecture Notes in Computer Science, vol 14899. Springer, 2024.
