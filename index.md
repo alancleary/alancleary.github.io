@@ -32,13 +32,15 @@ Recently I have been working on methods for visually exploring and mining data f
 
 ##### 2025
 
+Cleary, Alan M., Joseph Winjum, Jordan Dood, Hiroki Shibata and Shunsuke Inenaga. "Bit Packed Encodings for Grammar-Compressed Strings Supporting Fast Random Access." _23rd Symposium on Experimental Algorithms (SEA 2025)_. Leibniz International Proceedings in Informatics (LIPIcs), 2025.
+
 Mudge, Joann and Alan Cleary. "NIGMS Sandbox: Pangenomics Module." _Western Regional IDeA Conference_. WRIC, 2025.
 
 Cleary, Alan M. and Andrew Farmer. "Exploring the Arabidopsis Pangenome with the Genome Context Viewer." _Plant and Animal Genome Conference_. PAG 32, 2025.
 
 ##### 2024
 
-Cleary, Alan M., Joseph Winjum, Jordan Dood, Shunsuke Inenaga. "Revisiting the Folklore Algorithm for Random Access to Grammar-Compressed Strings." _String Processing and Information Retrieval (SPIRE)_. Lecture Notes in Computer Science, vol 14899. Springer, 2024.
+Cleary, Alan M., Joseph Winjum, Jordan Dood and Shunsuke Inenaga. "Revisiting the Folklore Algorithm for Random Access to Grammar-Compressed Strings." _String Processing and Information Retrieval (SPIRE)_. Lecture Notes in Computer Science, vol 14899. Springer, 2024.
 
 Kahanda, Indika, Joann Mudge, Buwani Manuweera, Thiruvarangan Ramaraj, Alan Cleary and Brendan Mumey. "Graph-Based Machine Learning Approaches for Pangenomics." _Machine Learning Methods for Multi-Omics Data Integration_. Springer Nature, 2024.
 
