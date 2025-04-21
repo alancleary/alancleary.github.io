@@ -34,6 +34,8 @@ Recently I have been working on methods for visually exploring and mining data f
 
 Cleary, Alan M., Joseph Winjum, Jordan Dood, Hiroki Shibata and Shunsuke Inenaga. "Bit Packed Encodings for Grammar-Compressed Strings Supporting Fast Random Access." _23rd Symposium on Experimental Algorithms (SEA 2025)_. Leibniz International Proceedings in Informatics (LIPIcs), 2025.
 
+Mudge, Joann, Thiruvarangan Ramaraj, Brendan Mumey, Indika Kahanda and Alan Cleary. "Connecting Pangenomes to Phenotypes." The Sequence to Function: Applications and Analysis for the Future meeting. SFA2F, 2025.
+
 Kahanda, Indika, Tejaswi Vemuri, Zonglin Yang, Thiruvarangan Ramaraj, Joann Mudge, Brendan Mumey and Alan Cleary. "Genotype-to-Phenotype Associations with Frequented Region Variants and DNA Language Models." _17th Great Lakes Bioinformatics Conference_. GLBIO, 2025.
 
 Mudge, Joann and Alan Cleary. "NIGMS Sandbox: Pangenomics Module." _Western Regional IDeA Conference_. WRIC, 2025.
